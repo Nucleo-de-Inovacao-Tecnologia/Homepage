@@ -22,7 +22,7 @@ header {
     height: 6rem;
 }
 
-header a {
+.header-link {
     color: white;
     padding-top: 2rem;
     padding-left: 7rem;
@@ -33,6 +33,7 @@ header a {
 #header-content {
     display: flex;
     position: left;
+    justify-content: space-evenly;
 }
 
 #uj-logo {
