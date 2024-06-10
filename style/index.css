@@ -152,7 +152,7 @@ header {
 
 /* PROJETOS  e FOOTER */
 #end-section {
-    height: 110rem;
+    height: 300rem;
     background-image: url("../images/Background03.svg");
 }
 #project-section {
@@ -204,11 +204,11 @@ header {
 }
 
 #show-project01 {
-    display: none;
+    display: flex;
 }
 
 #show-project02 {
-    display: flex;
+    display: none;
 }
 
 #show-project03 {
@@ -220,7 +220,7 @@ header {
 }
 
 #show-project05 {
-    display: flex;
+    display: none;
 }
 
 .hidden-text {
